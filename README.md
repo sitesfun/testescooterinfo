@@ -16,3 +16,9 @@ The initial website prototype has been created to test mobile responsiveness and
 - [ ] Scripts
 - [ ] More scooters
 - [ ] Language switcher
+
+[!NOTE]
+This project is under active development.
+
+[!WARNING]
+Some features may change.
