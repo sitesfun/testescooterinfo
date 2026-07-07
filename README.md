@@ -11,3 +11,8 @@ The primary goal of this project is to create a centralized, easy-to-navigate pl
 
 Version 1.0:
 The initial website prototype has been created to test mobile responsiveness and serve as the foundation for future development. By clicking the "More Information" button, you will be notified about upcoming updates and new features planned for the website.
+- [x] Website
+- [x] CSS
+- [ ] Scripts
+- [ ] More scooters
+- [ ] Language switcher
